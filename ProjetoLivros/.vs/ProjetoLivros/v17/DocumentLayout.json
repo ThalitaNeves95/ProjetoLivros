@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\projetoecommerce\\projetolivros\\projetolivros\\context\\projetolivroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\context\\projetolivroscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\projetoecommerce\\projetolivros\\projetolivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\projetoecommerce\\projetolivros\\projetolivros\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\projetoecommerce\\projetolivros\\projetolivros\\models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\projetoecommerce\\projetolivros\\projetolivros\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\projetoecommerce\\projetolivros\\projetolivros\\models\\assinatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\models\\assinatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|c:\\users\\fic\\documents\\projetoecommerce\\projetolivros\\projetolivros\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B82FAAF-5FAF-46D3-A778-978787491B95}|ProjetoLivros\\ProjetoLivros.csproj|solutionrelative:projetolivros\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Program.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Program.cs",
+              "RelativeToolTip": "ProjetoLivros\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T00:50:19.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjetoLivrosContext.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Context\\ProjetoLivrosContext.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Context\\ProjetoLivrosContext.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Context\\ProjetoLivrosContext.cs",
+              "RelativeToolTip": "ProjetoLivros\\Context\\ProjetoLivrosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:28:20.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assinatura.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\Assinatura.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Models\\Assinatura.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\Assinatura.cs",
+              "RelativeToolTip": "ProjetoLivros\\Models\\Assinatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:16:10.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Models\\Livro.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\Livro.cs",
+              "RelativeToolTip": "ProjetoLivros\\Models\\Livro.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:12:56.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProjetoLivros\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:09:12.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\Categoria.cs",
+              "RelativeToolTip": "ProjetoLivros\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:00:27.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "ProjetoLivros\\Models\\TipoUsuario.cs",
+              "ToolTip": "C:\\Users\\fic\\Documents\\ProjetoECommerce\\ProjetoLivros\\ProjetoLivros\\Models\\TipoUsuario.cs",
+              "RelativeToolTip": "ProjetoLivros\\Models\\TipoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T22:54:09.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
